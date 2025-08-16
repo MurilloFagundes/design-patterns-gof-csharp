@@ -71,6 +71,7 @@ Clone o repositório e rode os exemplos no seu ambiente .NET:
 git clone https://github.com/murillofagundes/design-patterns-gof-csharp.git
 cd design-patterns-gof-csharp
 dotnet run
+```
 
 ---
 Cada padrão estará em um projeto separado para facilitar a navegação e os testes.

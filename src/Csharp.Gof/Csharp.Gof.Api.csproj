@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Csharp.Gof.Application\Csharp.Gof.Application.csproj" />
+    <ProjectReference Include="..\Csharp.Gof.Application\Csharp.Gof.Application.csproj" />
   </ItemGroup>
 
 </Project>
